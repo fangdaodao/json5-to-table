@@ -408,7 +408,7 @@ generateHTMLTable(data, null, { parseDataToSchema: 'stack' })
 使用 `flatten` 生成的表头是：
 
 ```javascript
-generateHTMLTable(data, null, { parseDataToSchema: 'stack' })
+generateHTMLTable(data, null, { parseDataToSchema: 'flatten' })
 ```
 
 <table>
